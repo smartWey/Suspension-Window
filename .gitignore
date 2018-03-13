@@ -1,0 +1,10 @@
+*.ilk
+
+*.pdb
+
+*.opensdf
+*.sdf
+*.suo
+src/SuspensionWindow.sdf
+src/SuspensionWindow/Debug
+src/SuspensionWindow/Release
